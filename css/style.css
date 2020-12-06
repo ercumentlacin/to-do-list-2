@@ -47,7 +47,7 @@ li:hover {
     border: 1px solid black;
 }
 li.active {
-    background-color: #db4b2a !important;
+    background-color: #8adb2a !important;
     text-decoration: line-through;
     color: black !important;
     border-color: black !important;
